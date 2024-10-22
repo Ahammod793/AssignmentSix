@@ -27,5 +27,6 @@ ES6 features used in this projects:
 
 
 Live link of this Project :
+	https://ahammod793.github.io/AssignmentSix
 
 	
